@@ -46,7 +46,7 @@ https://github.com/luiscoco/SpringBoot_Sample11-MySQL
 
 12. SpringBoot Sample 12: **how to create SpringBoot PostgreSQL database CRUD application**
 
-https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server
+https://github.com/luiscoco/SpringBoot_Sample12-PostgreSQL
 
 13. SpringBoot Sample 13: **how to create SpringBoot MongoDB database CRUD application**
 
