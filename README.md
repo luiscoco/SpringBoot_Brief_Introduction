@@ -22,7 +22,7 @@ https://github.com/luiscoco/SpringBoot_Sample5-deploy-WebAPI-to-Azure_Kubernetes
 
 6. SpringBoot Sample 6: **how to create Web API with Swagger 3 (OpenAPI 3)**
 
-https://github.com/luiscoco/spring-boot-swagger-3-example-master
+https://github.com/luiscoco/SpringBoot_Sample6-swagger-3
 
 7. SpringBoot Sample 7: **how to deploy SpringBoot WebAPI to Azure Container Instance(ACI)**
 
