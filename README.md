@@ -24,7 +24,14 @@ https://github.com/luiscoco/SpringBoot_Sample5-deploy-WebAPI-to-Azure_Kubernetes
 
 
 
-7. SpringBoot Sample 7: 
+7. SpringBoot Sample 7: **how to deploy SpringBoot WebAPI to Azure Container Instance(ACI)**
 
+https://github.com/luiscoco/SpringBoot_Sample7-deploy-WebAPI-to-Azure_Container_Instance_ACI
 
+8. asdf
 
+9. asfdasdf
+
+10. asfdasdf
+
+11. asfdasfd
