@@ -12,7 +12,7 @@ https://github.com/luiscoco/SpringBoot_Sample2-created-WebAPI-with-VSCode
 
 https://github.com/luiscoco/SpringBoot_Sample3-deploy_WebAPI-to-AWS_Kubernetes_EKS
 
-4. SpringBoot Sample4: how to deploy Web API to Local Kubernetes
+4. SpringBoot Sample4: **how to deploy Web API to Local Kubernetes**
 
 https://github.com/luiscoco/SpringBoot_Sample4-deploy-WebAPI-to-LocalKubernetes
 
