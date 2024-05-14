@@ -16,9 +16,15 @@ https://github.com/luiscoco/SpringBoot_Sample3-deploy_WebAPI-to-AWS_Kubernetes_E
 
 https://github.com/luiscoco/SpringBoot_Sample4-deploy-WebAPI-to-LocalKubernetes
 
-5. asdf
+5. SpringBoot Sample 5: **how to  deploy Web API to Azure Kubernetes (AKS)**
 
-6. asdf
+https://github.com/luiscoco/SpringBoot_Sample5-deploy-WebAPI-to-Azure_Kubernetes_AKS
 
-7. asfdasdf
+6. SpringBoot Sample 6:
+
+
+
+7. SpringBoot Sample 7: 
+
+
 
