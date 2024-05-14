@@ -38,7 +38,7 @@ https://github.com/luiscoco/SpringBoot_Sample9-H2-database-CRUD
 
 10. SpringBoot Sample 10: **how to create SpringBoot SQL Server database CRUD application**
 
-https://github.com/luiscoco/spring-boot-sql-server-master
+https://github.com/luiscoco/SpringBoot_Sample10-SQL-Server
 
 11. SpringBoot Sample 11: **how to create SpringBoot MySQL database CRUD application**
 
