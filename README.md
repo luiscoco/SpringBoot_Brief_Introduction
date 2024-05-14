@@ -20,9 +20,9 @@ https://github.com/luiscoco/SpringBoot_Sample4-deploy-WebAPI-to-LocalKubernetes
 
 https://github.com/luiscoco/SpringBoot_Sample5-deploy-WebAPI-to-Azure_Kubernetes_AKS
 
-6. SpringBoot Sample 6:
+6. SpringBoot Sample 6: **how to create Web API with Swagger 3 (OpenAPI 3)**
 
-
+https://github.com/luiscoco/spring-boot-swagger-3-example-master
 
 7. SpringBoot Sample 7: **how to deploy SpringBoot WebAPI to Azure Container Instance(ACI)**
 
@@ -32,8 +32,30 @@ https://github.com/luiscoco/SpringBoot_Sample7-deploy-WebAPI-to-Azure_Container_
 
 https://github.com/luiscoco/SpringBoot_Sample8-deploy-WebAPI-to-AWS_ECS
 
-10. asfdasdf
+9.  SpringBoot Sample 9: **how to create SpringBoot H2 database CRUD application**
 
-11. asfdasdf
+https://github.com/luiscoco/spring-boot-h2-database-crud-master
 
-12. asfdasfd
+10. SpringBoot Sample 10: **how to create SpringBoot SQL Server database CRUD application**
+
+https://github.com/luiscoco/spring-boot-sql-server-master
+
+11. SpringBoot Sample 11: **how to create SpringBoot MySQL database CRUD application**
+
+https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server
+
+12. SpringBoot Sample 12: **how to create SpringBoot PostgreSQL database CRUD application**
+
+https://github.com/luiscoco/CRUD_Sample1_Spring-Boot-PostgreSQL-server
+
+13. SpringBoot Sample 13: **how to create SpringBoot MongoDB database CRUD application**
+
+https://github.com/luiscoco/spring-boot-data-mongodb-master
+
+14. asdfasfd
+
+
+
+15. asdfasfd
+
+
