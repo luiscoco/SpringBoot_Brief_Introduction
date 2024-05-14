@@ -52,10 +52,4 @@ https://github.com/luiscoco/SpringBoot_Sample12-PostgreSQL
 
 https://github.com/luiscoco/SpringBoot_Sample13-MongoDB
 
-14. asdfasfd
-
-
-
-15. asdfasfd
-
 
