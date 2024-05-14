@@ -34,7 +34,7 @@ https://github.com/luiscoco/SpringBoot_Sample8-deploy-WebAPI-to-AWS_ECS
 
 9.  SpringBoot Sample 9: **how to create SpringBoot H2 database CRUD application**
 
-https://github.com/luiscoco/spring-boot-h2-database-crud-master
+https://github.com/luiscoco/SpringBoot_Sample9-H2-database-CRUD
 
 10. SpringBoot Sample 10: **how to create SpringBoot SQL Server database CRUD application**
 
