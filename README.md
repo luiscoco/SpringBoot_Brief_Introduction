@@ -1,4 +1,4 @@
-# SpringBoot: a brief introduction
+# SpringBoot: learning by doing (from zero to hero)
 
 1. SpringBoot Sample 1: **how to created an application with VSCode**
 
