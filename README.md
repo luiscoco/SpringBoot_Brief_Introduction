@@ -42,7 +42,7 @@ https://github.com/luiscoco/SpringBoot_Sample10-SQL-Server
 
 11. SpringBoot Sample 11: **how to create SpringBoot MySQL database CRUD application**
 
-https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server
+https://github.com/luiscoco/SpringBoot_Sample11-MySQL
 
 12. SpringBoot Sample 12: **how to create SpringBoot PostgreSQL database CRUD application**
 
