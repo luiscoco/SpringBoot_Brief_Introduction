@@ -28,10 +28,12 @@ https://github.com/luiscoco/SpringBoot_Sample5-deploy-WebAPI-to-Azure_Kubernetes
 
 https://github.com/luiscoco/SpringBoot_Sample7-deploy-WebAPI-to-Azure_Container_Instance_ACI
 
-8. asdf
+8. SpringBoot Sample 8: **how to deploy SpringBoot WebAPI to AWS ECS**
 
-9. asfdasdf
+https://github.com/luiscoco/SpringBoot_Sample8-deploy-WebAPI-to-AWS_ECS
 
 10. asfdasdf
 
-11. asfdasfd
+11. asfdasdf
+
+12. asfdasfd
