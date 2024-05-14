@@ -50,7 +50,7 @@ https://github.com/luiscoco/SpringBoot_Sample12-PostgreSQL
 
 13. SpringBoot Sample 13: **how to create SpringBoot MongoDB database CRUD application**
 
-https://github.com/luiscoco/spring-boot-data-mongodb-master
+https://github.com/luiscoco/SpringBoot_Sample13-MongoDB
 
 14. asdfasfd
 
